@@ -1,0 +1,16 @@
+/* pages/recommend/index.wxss */
+.remd_tl {
+  border-left: 8rpx solid #d43c33;
+  padding-left: 16rpx;
+}
+.remd_ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 -8rpx;
+}
+.remd_li {
+  width: 33.33%;
+  padding: 8rpx;
+  box-sizing: border-box;
+}
